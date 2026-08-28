@@ -8,4 +8,3 @@
 | _TBD_ | AI/Data | RAG & search | @ai-dev |
 
 **Escalation:** Project Lead → Program Manager
-**Channels:** #rockwell-project (general), #rockwell-tech (technical)
